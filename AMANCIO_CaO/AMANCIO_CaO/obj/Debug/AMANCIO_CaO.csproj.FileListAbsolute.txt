@@ -1,8 +1,0 @@
-C:\Users\ACT-STUDENT\Desktop\AMANCIO_CaO\AMANCIO_CaO\bin\Debug\AMANCIO_CaO.exe.config
-C:\Users\ACT-STUDENT\Desktop\AMANCIO_CaO\AMANCIO_CaO\bin\Debug\AMANCIO_CaO.exe
-C:\Users\ACT-STUDENT\Desktop\AMANCIO_CaO\AMANCIO_CaO\bin\Debug\AMANCIO_CaO.pdb
-C:\Users\ACT-STUDENT\Desktop\AMANCIO_CaO\AMANCIO_CaO\obj\Debug\AMANCIO_CaO.csproj.AssemblyReference.cache
-C:\Users\ACT-STUDENT\Desktop\AMANCIO_CaO\AMANCIO_CaO\obj\Debug\AMANCIO_CaO.csproj.CoreCompileInputs.cache
-C:\Users\ACT-STUDENT\Desktop\AMANCIO_CaO\AMANCIO_CaO\obj\Debug\AMANCIO_CaO.exe
-C:\Users\ACT-STUDENT\Desktop\AMANCIO_CaO\AMANCIO_CaO\obj\Debug\AMANCIO_CaO.pdb
-C:\Users\ACT-STUDENT\Desktop\AMANCIO_CaO\AMANCIO_CaO\obj\Debug\AMANCIO_CaO.exe.config
